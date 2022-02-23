@@ -1,0 +1,16 @@
+name: PurpleItems
+version: '${project.version}'
+main: de.relativv.purpleitems.main.PurpleItems
+api-version: 1.17
+authors: [ relativv ]
+description: A custom items plugins
+
+depend: [Vault]
+
+commands:
+  purpleitems:
+    description: Give items with this command
+  refill:
+    description: Refill charges of specific item
+  autorefill:
+    description: Toggle autorefill
