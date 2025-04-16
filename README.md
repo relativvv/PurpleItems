@@ -48,7 +48,7 @@ Use this command to give a custom item to a player.
 ## Compatibility
 
 - ✅ Minecraft Version: **1.18.x**
-- ✅ Server Software: **Spigot / Paper**
+- ✅ Server Software: **Spigot**
 - ✅ Build Tool: **Maven**
 ---
 
